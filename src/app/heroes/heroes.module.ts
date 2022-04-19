@@ -11,7 +11,8 @@ import { ListComponent } from './list/list.component';
     ListComponent
   ],
   exports: [
-    ListComponent
+    ListComponent,
+    HeroeComponent
   ],
   imports: [
       CommonModule,
